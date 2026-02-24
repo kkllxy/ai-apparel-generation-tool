@@ -2,6 +2,8 @@
 
 面向独立服装设计师的 AI 模特穿搭成片生成工具。上传模特参考图 + 服装搭配参考图，一键生成电商级模特穿搭成片，并支持姿势、配色、换搭迭代编辑。
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkkllxy%2Fai-apparel-generation-tool&env=BANANA_API_KEY,SUPABASE_URL,SUPABASE_ANON_KEY&envDescription=API%20Keys%20needed%20for%20the%20app&envLink=https%3A%2F%2Fgithub.com%2Fkkllxy%2Fai-apparel-generation-tool%2Fblob%2Fmain%2FDEPLOY.md&project-name=ai-apparel-generation-tool)
+
 ## ✨ 功能特性
 
 - 📷 模特参考图 + 搭配参考图上传
